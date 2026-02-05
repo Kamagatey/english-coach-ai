@@ -1,0 +1,17 @@
+# Secrets
+.env
+config.env
+
+# Audio files
+*.mp3
+*.wav
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# liste modele
+liste.py
